@@ -1,0 +1,17 @@
+[
+  {
+    "Url": "https://example.com/task1",
+    "IntervalMinutes": 1,
+    "LastFired": "2025-07-09T02:58:41.1102125Z"
+  },
+  {
+    "Url": "https://example.com/task2",
+    "IntervalMinutes": 5,
+    "LastFired": "2025-07-09T02:58:43.1874155Z"
+  },
+  {
+    "Url": "https://example.com/task3",
+    "IntervalMinutes": 1,
+    "LastFired": "2025-07-09T02:58:45.425843Z"
+  }
+]
